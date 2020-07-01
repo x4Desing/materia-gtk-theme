@@ -12,8 +12,8 @@ Flat dark themes creados en base a [nana-4/materia-theme](https://github.com/nan
 ![Materia-Dark-Yellow](/Materia-Dark-Yellow/preview.jpg)
 
 ### Install
+Descargar y mover los temas a la carpeta .themes en su directorio Home y los wallpaper a su carpeta Imagenes. 
 
 ```
 git clone https://github.com/x4Desing/materia-gtk-theme.git ~/.themes/.
 ```
-O descargar y extraer en la carpeta .themes en su directorio Home.
